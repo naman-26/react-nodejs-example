@@ -15,6 +15,7 @@ pipeline {
           sh 'docker push namanagrawal/demo-app:rnjs-2.0'
         }
       }
+    }
   }
   
 }
